@@ -436,6 +436,10 @@ body{
 	display: block;
 }
 
-.game-content-items:target{
-	background: url("../img/сrimean-bridge.jpg") center / 1000px no-repeat;
+.game__container:target .game-content {
+	display: block;
+}
+
+.game__container:target .game-content-items {
+	background: url("../img/crimean-bridge.jpg") center / 1000px no-repeat;
 }
