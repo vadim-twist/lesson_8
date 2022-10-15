@@ -441,5 +441,5 @@ body{
 }
 
 .game__container:target .game-content-items {
-	background: url("../img/crimean-bridge.jpg") center / 1000px no-repeat;
+	background: url("../img/сrimean-bridge.jpg") center / 1000px no-repeat;
 }
